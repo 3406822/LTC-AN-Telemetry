@@ -4,7 +4,7 @@
 Engineered deep learning model for real-time anomaly detection in satellite embedded telemetry systems, deployed on ARM Cortex-M / Raspberry Pi 4 edge hardware.
 
 **Researcher:** Philip Opoku Brako | KNUST Computer Science | Student ID: 20916855  
-**Supervisor:** [E.O.OSEI]  
+**Supervisor:** [ E.O.OSEI ]  
 **Institution:** Kwame Nkrumah University of Science and Technology (KNUST)
 
 ---
